@@ -1,0 +1,13 @@
+# Ignore Eclipse metadata folder
+.metadata/
+
+# Ignore build directories
+build/
+out/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
